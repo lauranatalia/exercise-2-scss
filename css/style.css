@@ -1,0 +1,4 @@
+/*this file imprts all of your scss partials to be compieled into one stylesheet, which you can then attach to your html, 
+
+All files that are previxed with an underscore "_name-of-file.scss" are called partials - meaning their css is not compieled unless its imported into an unprefixed.scss file */
+/*this is our main file for css/sass */
